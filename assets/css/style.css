@@ -1,0 +1,315 @@
+header{
+    background-color: hsl(55, 29%, 84%);
+    width: 100%;
+    height: 110px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(55, 29%, 84%);
+}
+
+
+
+.nav{   
+    display: flex;
+}
+    
+
+.nav > li > a{
+    color: rgb(66, 43, 13);
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: 'Homemade Apple', cursive;
+
+}
+.shop{
+    background-image: url(../img/photo-1445116572660-236099ec97a0.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+   
+}
+
+
+/* .title-comment{
+    writing-mode: vertical-rl;
+    font-size: 80px;
+    color: rgb(248, 250, 249);
+    width: fit-content;
+    height: fit-content;
+    background-color: rgba(29, 14, 8, 0.521);
+    margin-left: 1230px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+.title-comment2{
+    writing-mode: vertical-rl;
+    font-size: 60px;
+    color: rgb(248, 250, 249);
+    width: fit-content;
+    height: fit-content;
+    background-color: rgba(29, 14, 8, 0.521);
+    margin-top: 50px;
+    margin-left: 1220px;
+} */
+
+.title1{
+    background-image: url(../img/🌿.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+}
+
+.big-concept{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#CONCEPT{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.concept-image{
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+.contents1{
+    height: 400px;
+}
+
+.discription{
+    width: 250px;
+    height: 300px;
+    background-color: hsl(55, 29%, 84%);
+    margin-right: 30px;
+    padding: 40px 20px;
+
+}
+
+.title2{
+    background-image: url(../img/🌿.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+}
+
+.big-concept2{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+
+.image-fish{
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+#FOOTBATH{
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    
+}
+.concept-image2{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.discription2{
+    padding: 30px 40px 30px 40px;
+    background-color: rgba(169, 169, 169, 0.247);
+    width: 500px;
+    height: 150px;
+    
+   
+}
+
+.title-point{
+    font-size: 25px;
+    border-bottom: double 3px rgb(147, 197, 197);
+    padding-top: 130px;
+}
+
+.contents-point{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.bath-image{
+    padding-right: 70px;
+   
+}
+
+
+.title3{
+    background-image: url(../img/🌿.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+}
+
+.big-concept3{
+   display: flex;
+   flex-direction: row;
+   align-items: ;
+   justify-content: space-between;
+  
+}
+
+#MENU{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  
+}
+.cup-image{
+    padding-top: 20px;
+    
+}
+
+.item-title {
+    font-size: 30px;
+    display: inline-block;
+    border-bottom: solid 6px #c4daa8;
+    margin-bottom: 70px;
+  }
+  .fixed-bg {
+    height: 300px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 40px;
+  }
+
+  .menu-item{
+      padding-right: 100px;
+      font-size: 20px;
+  }
+  .menu-item2{
+      font-size: 20px;
+  }
+
+  .menu-image{
+      display: flex;
+      flex-direction: column;
+      padding-left: 200px;
+      padding-bottom: 400px;
+  }
+  .lunch{
+      padding-bottom: 20px;
+  }
+
+  .title4{
+    background-image: url(../img/🌿.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+
+  }
+  .big-concept4{
+    display: flex;
+    flex-direction: row;}
+
+ #SHOPINFO{
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 30px;
+ }
+
+.flower-image{
+    margin-bottom: 20px;
+    
+}
+
+.acces{
+    
+    margin-right: 520px;
+    background-color: rgba(240, 209, 171, 0.267);
+    width: 500px;
+    height: 650px;
+    padding-left: 70px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+.acces-contents{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    padding-top: 20px;
+
+}
+
+.Yasuragi{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+.acces-yasuragi{
+    width: 300px;
+    padding-bottom: 60px;
+
+}
+.map{
+    padding-bottom: 300px;
+}
+
+.map-right{
+    display: flex;
+    flex-direction: row;
+}
+
+.cafeimage{
+    margin-left: 80px;
+    
+}
+
+footer{
+    height: 30px;
+    text-align: center;
+    color: rgb(51, 16, 16);
+    padding-top: 15px;
+    width: 100%;
+    background-color: hsl(55, 29%, 84%);
+}
